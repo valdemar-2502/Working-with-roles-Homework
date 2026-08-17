@@ -1,2 +1,9 @@
 ---
-clickhouse_version: "26.7.3.19"
+clickhouse_version: "21.8.15.7"
+clickhouse_repo_key: "https://packages.clickhouse.com/rpm/stable/repodata/repomd.xml.key"
+
+clickhouse_listen_host_default:
+  - "127.0.0.1"
+
+clickhouse_networks_default:
+  - "127.0.0.1"
