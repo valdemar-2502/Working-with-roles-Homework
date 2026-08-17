@@ -36,6 +36,17 @@
 9. Переработайте playbook на использование roles. Не забудьте про зависимости LightHouse и возможности совмещения `roles` с `tasks`.
 10. Выложите playbook в репозиторий.
 11. В ответе дайте ссылки на оба репозитория с roles и одну ссылку на репозиторий с playbook.
+---
+![ansible](https://github.com/valdemar-2502/Working-with-roles-Homework/blob/main/screenshots/01.png)
+![ansible](https://github.com/valdemar-2502/Working-with-roles-Homework/blob/main/screenshots/02.png)
+![ansible](https://github.com/valdemar-2502/Working-with-roles-Homework/blob/main/screenshots/03.png)
+![ansible](https://github.com/valdemar-2502/Working-with-roles-Homework/blob/main/screenshots/04.png)
+![ansible](https://github.com/valdemar-2502/Working-with-roles-Homework/blob/main/screenshots/05.png)
+
+---
+---
+[playbook](https://github.com/valdemar-2502/Working-with-roles-Homework/blob/main/site.yml)
+
 
 ---
 
